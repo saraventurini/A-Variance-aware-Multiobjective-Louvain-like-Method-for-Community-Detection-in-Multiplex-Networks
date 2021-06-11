@@ -12,7 +12,8 @@
 From https://github.com/youweiliang/Multi-view\_Clustering
 
 ## Artificial networks 
--adjacent\_matrix\_generator: creates a single-layer graph using the Stochastic Block Model.\ 
+-adjacent\_matrix\_generator: creates a single-layer graph using the Stochastic Block Model.
+
 -adjacent\_matrix\_generator\_multi: creates a multi-layer graph for the informative case: each layer is informative. Each layer is created by the adjacent\_matrix\_generator.\
 -adjacent\_matrix\_generator\_multi\_r: creates a multi-layer graph for the noisy case: first layer noisy and all the other layers informative. Each layer is created by the adjacent_matrix_generator.
 
