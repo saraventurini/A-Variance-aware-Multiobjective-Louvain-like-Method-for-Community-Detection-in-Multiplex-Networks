@@ -1,5 +1,5 @@
 # Louvain-like Methods for Community Detection in Multi-Layer Networks
-***
+
 ## Proposed Methods
 -EA: Louvain Expansion Method Average 
      In particular: in EA_s communities are indexed by size and in EA_r are indexed randomly
