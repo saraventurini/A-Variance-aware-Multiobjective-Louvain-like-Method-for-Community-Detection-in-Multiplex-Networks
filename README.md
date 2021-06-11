@@ -1,13 +1,13 @@
 # Louvain-like Methods for Community Detection in Multi-Layer Networks
 
 ## Proposed Methods
--EA: Louvain Expansion Method Average 
-     In particular: in EA_s communities are indexed by size and in EA_r are indexed randomly
--EVM: Louvain Expansion Method Function F-
--EVP: Louvain Expansion Method Function F+
--MA: Louvain Multiobjective Method Average (in particular: in MA\_s communities are indexed by size and in MA\_r are indexed randomly)
--MVM: Louvain Multiobjective Method Function F-
--MCP: Louvain Multiobjective Method Function F+ 
+-EA: Louvain Expansion Method Average\
+     In particular: in EA_s communities are indexed by size and in EA_r are indexed randomly\
+-EVM: Louvain Expansion Method Function F-\
+-EVP: Louvain Expansion Method Function F+\
+-MA: Louvain Multiobjective Method Average (in particular: in MA\_s communities are indexed by size and in MA\_r are indexed randomly)\
+-MVM: Louvain Multiobjective Method Function F-\
+-MCP: Louvain Multiobjective Method Function F+\
 
 ## State-of-the-art methods (to be added in this folder)
 From https://github.com/youweiliang/Multi-view\_Clustering
