@@ -9,7 +9,7 @@
 - MVP: Louvain Multiobjective Method Function F+. 
 
 ## State-of-the-art methods (to be added in this folder)
-%Download
+## Download
 - From https://github.com/youweiliang/Multi-view_Clustering: Co-Regularized Spectral Clustering (CoReg), multi-view clustering via Adaptively Weighted Procrustes (AWP), Multi-view Consensus Graph Clustering (MCGC), and The Power Mean Laplacian Multi-layer Method (PM).
 - From https://github.com/cdebacco/MultiTensor: Multitensor expectation maximization method (MT).
 - From https://github.com/gilles-didier/MolTi: Subspace Analysis on Grassmann Manifolds (SCML), and Principal Modularity Maximization (PMM).
@@ -23,7 +23,7 @@
 - adjacent\_matrix\_generator: creates a single-layer graph using the Stochastic Block Model 
 - adjacent\_matrix\_generator_multi: creates a multi-layer graph for the informative case: each layer is informative. Each layer is created by the adjacent_matrix_generator.
 -adjacent\_matrix\_generator\_multi\_r: creates a multi-layer graph for the noisy case: SOME layer noisy and SOME layers informative. Each layer is created by the adjacent_matrix_generator.
-##LFR Lancichinetti-Fortunato-Radicchi
+## LFR Lancichinetti-Fortunato-Radicchi
 From https://www.santofortunato.net/resources Package 1 
 A. Lancichinetti, S. Fortunato, and F. Radicchi, Benchmark graphs for testing community detection algorithms, Physical review E, vol. 78, no. 4, p. 046110, 2008.
 
@@ -31,7 +31,7 @@ A. Lancichinetti, S. Fortunato, and F. Radicchi, Benchmark graphs for testing co
 From https://github.com/melopeo/PM_SSL/tree/master/realworld_datasets
 P. Mercado, F. Tudisco, and M. Hein, Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs. In NeurIPS 2019.
 
-##Evaluation of the final partitions
+## Evaluation of the final partitions
 - confusion_matrix: calculates the confusion matrix. It is used in "wrong" function and input of "NMI" function.
 - reindex_com: reindexes communities. It is used in "confusion_matrix" function.
 - wrong: counts the number of nodes in the wrong community. It is used to calculate the Accuracy of a partition.
