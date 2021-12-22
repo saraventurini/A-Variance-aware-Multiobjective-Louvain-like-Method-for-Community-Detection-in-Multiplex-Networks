@@ -9,12 +9,12 @@
 - MVP: Louvain Multiobjective Method Function F+. 
 
 ## State-of-the-art methods (to be added in this folder)
-## Download
+# Download
 - From https://github.com/youweiliang/Multi-view_Clustering: Co-Regularized Spectral Clustering (CoReg), multi-view clustering via Adaptively Weighted Procrustes (AWP), Multi-view Consensus Graph Clustering (MCGC), and The Power Mean Laplacian Multi-layer Method (PM).
 - From https://github.com/cdebacco/MultiTensor: Multitensor expectation maximization method (MT).
 - From https://github.com/gilles-didier/MolTi: Subspace Analysis on Grassmann Manifolds (SCML), and Principal Modularity Maximization (PMM).
 - From https://github.com/mapequation/infomap: Infomap Information-theoretic generalization of mapequation (IM).
-## Help files
+# Help files
 - INFOMAP_adjacency_matrix: from adjecency matrix to input file IM method.
 - MULTITENSOR_adjacency_matrix: from adjecency matrix to input file for MT method.
 
