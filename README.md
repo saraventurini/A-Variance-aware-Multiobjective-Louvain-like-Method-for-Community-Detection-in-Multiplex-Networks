@@ -19,11 +19,11 @@
 - MULTITENSOR_adjacency_matrix: from adjecency matrix to input file for MT method.
 
 ## Artificial networks 
-## SBM Stochastic Block Model
+### SBM Stochastic Block Model
 - adjacent\_matrix\_generator: creates a single-layer graph using the Stochastic Block Model 
 - adjacent\_matrix\_generator_multi: creates a multi-layer graph for the informative case: each layer is informative. Each layer is created by the adjacent_matrix_generator.
 -adjacent\_matrix\_generator\_multi\_r: creates a multi-layer graph for the noisy case: SOME layer noisy and SOME layers informative. Each layer is created by the adjacent_matrix_generator.
-## LFR Lancichinetti-Fortunato-Radicchi
+### LFR Lancichinetti-Fortunato-Radicchi
 From https://www.santofortunato.net/resources Package 1 
 A. Lancichinetti, S. Fortunato, and F. Radicchi, Benchmark graphs for testing community detection algorithms, Physical review E, vol. 78, no. 4, p. 046110, 2008.
 
@@ -38,11 +38,11 @@ P. Mercado, F. Tudisco, and M. Hein, Generalized Matrix Means for Semi-Supervise
 - NMI: calculates the Normalized Mutual Information (NMI) of a partition.
 
 ## Tests on Artificial Networks
-## SBM
+### SBM
 test\_ART: run all the artificial tests SBM (informative and real) reported in the paper.
 - run: tests each methods on artificial networks SBM for the informative case.
 - run\_n: tests each methods on artificial networks SBM for the noisy case.
-## LFR
+### LFR
 test_ART_LFR: run all the artificial tests LFR (informative and real) reported in the paper.
 - run\_LFR: tests each methods on artificial networks LFR for the informative case .
 - run\_n\_LFR: tests each methods on artificial networks LFR for the noisy case.
