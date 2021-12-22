@@ -28,7 +28,7 @@ From https://www.santofortunato.net/resources Package 1
 A. Lancichinetti, S. Fortunato, and F. Radicchi, Benchmark graphs for testing community detection algorithms, Physical review E, vol. 78, no. 4, p. 046110, 2008.
 
 ## Real Datasets
-From https://github.com/melopeo/PM_SSL/tree/master/realworld_datasets
+From https://github.com/melopeo/PM_SSL/tree/master/realworld_datasets \
 P. Mercado, F. Tudisco, and M. Hein, Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs. In NeurIPS 2019.
 
 ## Evaluation of the final partitions
