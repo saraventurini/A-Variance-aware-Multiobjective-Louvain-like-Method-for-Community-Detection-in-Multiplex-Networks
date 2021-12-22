@@ -24,7 +24,7 @@
 - adjacent\_matrix\_generator_multi: creates a multi-layer graph for the informative case: each layer is informative. Each layer is created by the adjacent_matrix_generator.
 -adjacent\_matrix\_generator\_multi\_r: creates a multi-layer graph for the noisy case: SOME layer noisy and SOME layers informative. Each layer is created by the adjacent_matrix_generator.
 ### LFR Lancichinetti-Fortunato-Radicchi
-From https://www.santofortunato.net/resources Package 1 
+From https://www.santofortunato.net/resources Package 1 \
 A. Lancichinetti, S. Fortunato, and F. Radicchi, Benchmark graphs for testing community detection algorithms, Physical review E, vol. 78, no. 4, p. 046110, 2008.
 
 ## Real Datasets
