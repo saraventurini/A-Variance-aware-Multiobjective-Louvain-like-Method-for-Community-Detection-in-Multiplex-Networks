@@ -54,7 +54,7 @@ test\_REAL: run all the tests on real-world networks (informative and real) repo
 - REAL\_n3: tests each methods on real datasets with noise (first layer sum of all the real layers, second layer is noise).
 
 ## Reference paper
-"Louvain-like Methods for Community Detection in Multiplex Networks" by Sara Venturini, Andrea Cristofari, Francesco Rinaldi, Francesco Tudisco.
+"A Variance-aware Multiobjective Louvain-like Method for Community Detection in Multiplex Networks" by Sara Venturini, Andrea Cristofari, Francesco Rinaldi, Francesco Tudisco.
 
 ## Authors
 - Sara Venturini (e-mail: sara.venturini@math.unipd.it)
