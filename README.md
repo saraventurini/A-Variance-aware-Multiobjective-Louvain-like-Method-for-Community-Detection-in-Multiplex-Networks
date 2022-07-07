@@ -1,4 +1,4 @@
-# Louvain-like Methods for Community Detection in Multiplex Networks
+# A Variance-aware Multiobjective Louvain-like Method for Community Detection in Multiplex Networks
 
 ## Proposed Methods
 - GL: Generalized Louvain (in particular: in GL\_s communities are indexed by size and in GL\_r are indexed randomly).
