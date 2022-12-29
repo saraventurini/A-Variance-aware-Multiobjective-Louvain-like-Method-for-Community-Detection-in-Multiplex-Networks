@@ -1,5 +1,7 @@
 # A Variance-aware Multiobjective Louvain-like Method for Community Detection in Multiplex Networks
 
+This repository contains the codes of the paper "A Variance-aware Multiobjective Louvain-like Method for Community Detection in Multiplex Networks" by Sara Venturini, Andrea Cristofari, Francesco Rinaldi, Francesco Tudisco.
+
 ## Proposed Methods
 - GL: Generalized Louvain (in particular: in GL\_s communities are indexed by size and in GL\_r are indexed randomly).
 - EVM: Louvain Expansion Method Function F-.
